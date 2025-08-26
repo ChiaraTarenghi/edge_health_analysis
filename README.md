@@ -1,5 +1,3 @@
-# edge_health_analysis
-
 # Cardiovascular Health Data Analysis 
 
 ## 📌 Overview
